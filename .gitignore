@@ -3,7 +3,7 @@ bundle.js
 npm-debug.log
 .DS_Store
 
-.env.local
+.env
 .tern-port
 
 # IntelliJ
