@@ -3,6 +3,9 @@ bundle.js
 npm-debug.log
 .DS_Store
 
+.env.local
+.tern-port
+
 # IntelliJ
 *.iml
 /.idea
